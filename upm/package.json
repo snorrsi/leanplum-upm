@@ -1,0 +1,15 @@
+{
+  "name": "com.mussila.leanplum-sdk",
+  "version": "3.0.0",
+  "displayName": "Mussila - Leanplum SDK",
+  "description": "Mussila - Leanplum SDK",
+  "unity": "2019.1",
+  "author": {
+    "name": "Snorri Siemsen",
+    "email": "snorri@mussila.com",
+    "url": "https://github.com/mussila/leanplum-sdk-upm"
+  },
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.162"
+  }
+}
